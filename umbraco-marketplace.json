@@ -1,0 +1,42 @@
+{
+  "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+  "AlternatePackageNames": [
+    "ElementFinder",
+    "Element Finder"
+  ],
+  "AuthorDetails": {
+    "Name": "Pixelbuilders",
+    "Description": "Leeds Digital Agency. Focused On Delivering Innovative & Intuitive Answers To Digital Problems.",
+    "Url": "https://www.pixelbuilders.com/",
+    "ImageUrl": "https://github.com/potatoCutts/Pixelbuilders.Umbraco.ElementerFinder/blob/main/images/logo.png",
+    "Contributors": [
+      {
+        "Name": "Daniel Cutts",
+        "Url": "https://github.com/potatoCutts"
+      }
+    ],
+    "SyncContributorsFromRepository": true
+  },
+  "Category": "Editor Tools",
+  "Description": "A umbraco dashboard to easily find elements / blocks being used within the CMS.",
+  "LicenseTypes": [ "Free" ],
+  "DocumentationUrl": "https://github.com/potatoCutts/",
+  "IssueTrackerUrl": "https://github.com/potatoCutts/",
+  "PackageType": "Package",
+  "Tags": [ "ElementFinder", "Element Finder", "Block Finder", "Content Finder", "Changelog", "Change", "Log", "Logs" ],
+  "Title": "Client Drawer",
+  "Screenshots": [
+    {
+      "ImageUrl": "https://github.com/potatoCutts/Pixelbuilders.Umbraco.ElementerFinder/blob/main/images/image-1.png",
+      "Caption": "Screenshot 1"
+    },
+    {
+      "ImageUrl": "https://github.com/potatoCutts/Pixelbuilders.Umbraco.ElementerFinder/blob/main/images/image-2.png",
+      "Caption": "Screenshot 2"
+    },
+    {
+      "ImageUrl": "https://github.com/potatoCutts/Pixelbuilders.Umbraco.ElementerFinder/blob/main/images/image-3.png",
+      "Caption": "Screenshot 3 - Change Log"
+    }
+  ]
+}
