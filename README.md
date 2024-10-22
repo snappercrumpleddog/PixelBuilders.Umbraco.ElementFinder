@@ -4,7 +4,7 @@
 
 There is no configuration required for the package. Once installed, simply log into the CMS and the user will be presented with a new dashboard on the homescreen. This will list all the available element types within a dropdown. 
 
-[![Screenshot 1](https://raw.githubusercontent.com/pixelbuilders/PixelBuilders.Umbraco.ElementFinder/refs/heads/main/images/image-1.png?token=GHSAT0AAAAAACYYJGZZDE3LNHJC5U6RNWKUZYXNKKQ)](https://raw.githubusercontent.com/pixelbuilders/PixelBuilders.Umbraco.ElementFinder/refs/heads/main/images/image-1.png?token=GHSAT0AAAAAACYYJGZZDE3LNHJC5U6RNWKUZYXNKKQ)
+[![Screenshot 1](https://raw.githubusercontent.com/pixelbuilders/PixelBuilders.Umbraco.ElementFinder/refs/heads/main/images/image-1.png?token=GHSAT0AAAAAACYYJGZZYCKC2JCIFRDQOXSWZYXNQKQ)](https://raw.githubusercontent.com/pixelbuilders/PixelBuilders.Umbraco.ElementFinder/refs/heads/main/images/image-1.png?token=GHSAT0AAAAAACYYJGZZYCKC2JCIFRDQOXSWZYXNQKQ)
 
 Selecting an element will display all the pages the element can be found on. With information on the page name, path and url. 
 
@@ -16,7 +16,7 @@ The package also gives the user the ability to quickly view and edit the content
 
 
 ## Screenshots
-[![Screenshot 1](https://raw.githubusercontent.com/pixelbuilders/PixelBuilders.Umbraco.ElementFinder/refs/heads/main/images/image-1.png?token=GHSAT0AAAAAACYYJGZZDE3LNHJC5U6RNWKUZYXNKKQ)](https://raw.githubusercontent.com/pixelbuilders/PixelBuilders.Umbraco.ElementFinder/refs/heads/main/images/image-1.png?token=GHSAT0AAAAAACYYJGZZDE3LNHJC5U6RNWKUZYXNKKQ) [![Screenshot 2](https://raw.githubusercontent.com/pixelbuilders/PixelBuilders.Umbraco.ElementFinder/refs/heads/main/images/image-2.png?token=GHSAT0AAAAAACYYJGZZVKXRTFNQHSV6QY6IZYXNNIQ)](https://raw.githubusercontent.com/pixelbuilders/PixelBuilders.Umbraco.ElementFinder/refs/heads/main/images/image-2.png?token=GHSAT0AAAAAACYYJGZZVKXRTFNQHSV6QY6IZYXNNIQ) [![Screenshot 3](https://raw.githubusercontent.com/pixelbuilders/PixelBuilders.Umbraco.ElementFinder/refs/heads/main/images/image-3.png?token=GHSAT0AAAAAACYYJGZZBXVGBFF44FHNZPZGZYXNN5A)](https://raw.githubusercontent.com/pixelbuilders/PixelBuilders.Umbraco.ElementFinder/refs/heads/main/images/image-3.png?token=GHSAT0AAAAAACYYJGZZBXVGBFF44FHNZPZGZYXNN5A)
+[![Screenshot 1](https://raw.githubusercontent.com/pixelbuilders/PixelBuilders.Umbraco.ElementFinder/refs/heads/main/images/image-1.png?token=GHSAT0AAAAAACYYJGZZYCKC2JCIFRDQOXSWZYXNQKQ)](https://raw.githubusercontent.com/pixelbuilders/PixelBuilders.Umbraco.ElementFinder/refs/heads/main/images/image-1.png?token=GHSAT0AAAAAACYYJGZZYCKC2JCIFRDQOXSWZYXNQKQ) [![Screenshot 2](https://raw.githubusercontent.com/pixelbuilders/PixelBuilders.Umbraco.ElementFinder/refs/heads/main/images/image-2.png?token=GHSAT0AAAAAACYYJGZZVKXRTFNQHSV6QY6IZYXNNIQ)](https://raw.githubusercontent.com/pixelbuilders/PixelBuilders.Umbraco.ElementFinder/refs/heads/main/images/image-2.png?token=GHSAT0AAAAAACYYJGZZVKXRTFNQHSV6QY6IZYXNNIQ) [![Screenshot 3](https://raw.githubusercontent.com/pixelbuilders/PixelBuilders.Umbraco.ElementFinder/refs/heads/main/images/image-3.png?token=GHSAT0AAAAAACYYJGZZBXVGBFF44FHNZPZGZYXNN5A)](https://raw.githubusercontent.com/pixelbuilders/PixelBuilders.Umbraco.ElementFinder/refs/heads/main/images/image-3.png?token=GHSAT0AAAAAACYYJGZZBXVGBFF44FHNZPZGZYXNN5A)
 
 
 ## Requirements
