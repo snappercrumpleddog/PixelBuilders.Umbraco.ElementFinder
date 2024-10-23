@@ -37,7 +37,7 @@ namespace Pixelbuilders.Umbraco.BlockStat.Composers
                     [
                         "/App_Plugins/ElementFinder/ElementFinder.css"
                     ],
-                    Version = "1.0.0",
+                    Version = "1.0.1",
                     Dashboards = [new()
                     {                        
                         Alias = "Block Stat",
